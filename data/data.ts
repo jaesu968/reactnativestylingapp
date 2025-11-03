@@ -32,7 +32,7 @@ export interface Data {
   featured: Featured[];
 }
 
-const data = {
+const data: Data = {
   users: [
     {
       id: "user-1",
